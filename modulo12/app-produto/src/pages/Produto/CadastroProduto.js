@@ -89,7 +89,7 @@ const CadastroProduto = () =>{
 
 const style = {
   margin: '10 2 0 0',
-  width: '60%',
+  width: '65%',
   bgcolor: 'background.paper',
   p: 4,
 };
